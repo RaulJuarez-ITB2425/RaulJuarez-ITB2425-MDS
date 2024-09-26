@@ -1,8 +1,12 @@
+
+
+name = str(input("Hola, quin es el teu nom? "))
 edat = int(input("Quina edat tens? "))
+
 if edat >= 18:
-    print("Ets major de edat")
+    print('Hola ' + name + ', ets major de edat')
 else:
-    print("Ets menor de edat")
+    print('Hola ' + name + ', ets menor de edat')
 
 # Finalizamos programa
 print("Programa finalitzat")
