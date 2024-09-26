@@ -4,7 +4,6 @@ if edat >= 18:
 else:
     print("Ets menor de edat")
 
+# Finalizamos programa
 print("Programa finalitzat")
-
-
 
