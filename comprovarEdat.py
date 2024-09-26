@@ -1,4 +1,3 @@
-
 name = str(input("Hola, quin es el teu nom? "))
 edat = int(input("Quina edat tens? "))
 
